@@ -22,7 +22,7 @@ if nbplace>libre:
     print("Désolé il n'y a pas assez de place")
 
 else:
-    print("Vote séance est dans la Salle 3 au deuxieme étage")
+    print("Vote séance est dans la Salle 3 au deuxieme étage");
 
 
  
